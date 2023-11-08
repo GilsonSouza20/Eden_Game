@@ -1,5 +1,6 @@
 🚧 Building in process 🚧
-Known bugs:
+
+## Known bugs:
 "The game is utilizing the js.colide library, but the collisions are not yet perfect. This is due to the image size, which includes a transparent background, being larger than what is displayed on the screen. As a result, collisions occur before they are visually apparent."
 
 # Eden_Game
